@@ -6,7 +6,7 @@ A lightweight, all-in-one game launcher for indie games.
 
 ![Version](https://img.shields.io/badge/version-r7.0.0-00e5ff)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
+![Platform](https://img.shields.io/badge/platform-Windows-cyan)
 
 ## 🎮 Features
 
@@ -19,7 +19,7 @@ A lightweight, all-in-one game launcher for indie games.
 
 ## 📥 Download
 
-Get the latest release on [itch.io](YOUR-LINK-HERE)
+Get the latest release on [itch.io](https://nexora-co.itch.io/nexora-launcher)
 
 ## 📚 Documentation
 
@@ -28,9 +28,7 @@ Visit [nexora.github.io/docs](https://nexora.github.io/docs) for full documentat
 ## 🌐 Links
 
 - **Website**: [nexora.github.io](https://nexora.github.io)
-- **Discord**: [Join Server](YOUR-DISCORD-INVITE)
-- **Reddit**: [r/NexoraLauncher](https://reddit.com/r/NexoraLauncher)
-- **Twitter**: [@NexoraGaming](https://twitter.com/NexoraGaming)
+- **Reddit**: [r/NexoraLauncher](https://www.reddit.com/r/NexoraLauncher/?feed=home)
 
 ## 📊 Current Version
 
@@ -48,17 +46,3 @@ MIT License - See LICENSE file for details
 ---
 
 Built with ❤️ by indie devs, for indie gamers.
-```
-
----
-
-## **8. EMAIL SIGNATURE**
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Nexora
-Indie Gaming. Optimized.
-
-🌐 nexora.github.io
-🎮 [itch.io link]
-💬 Discord: [invite link]
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
